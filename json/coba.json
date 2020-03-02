@@ -1,0 +1,9 @@
+{
+    "nama" : "Fauzi",
+    "umur" : 25,
+    "nik"  : "023462932",
+    "lulus": true, 
+    "hobby": ["coding",
+                "gaming"
+    ]
+}   
